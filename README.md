@@ -9,4 +9,8 @@ ensuite on va modifier nos pistes
 avant de les reintegrer au master : Versionning
 
 2eme pullRequest
-voir si il va afficher des choses en rouge
+voir si il va afficher des choses en rou
+
+toujours rien en rouge.
+
+Si maintenant y'a du rouge

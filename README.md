@@ -14,3 +14,6 @@ voir si il va afficher des choses en rou
 toujours rien en rouge.
 
 Si maintenant y'a du rouge
+
+
+editer en tant que copy
